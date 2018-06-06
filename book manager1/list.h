@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
+#include <string.h>
 #define OK 1
 #define ERROR 0
 #define LIST_INIT_SIZE 10
